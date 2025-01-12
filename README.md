@@ -17,7 +17,9 @@ I also hold NPTEL certifications in:
 ## ⚡ Skills & Technologies  
 
 ### Programming Languages:  
-![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-yellow) ![SQL](https://img.shields.io/badge/-SQL-lightgrey) ![C++](https://img.shields.io/badge/-C++-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-yellow) ![SQL](https://img.shields.io/badge/-SQL-lightgrey) ![C++](https://img.shields.io/badge/-C++-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![AWK](https://img.shields.io/badge/-AWK-blue?style=flat)
+![SED](https://img.shields.io/badge/-SED-yellow?style=flat)  
 
 
 ### Web Frameworks:  
