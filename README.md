@@ -1,6 +1,7 @@
-# Hi there, I'm [Your Name] 👋  
-
-I'm passionate about mathematics, statistics, and computer science, with a strong focus on **data science** and **machine learning**. I am currently pursuing a **Degree in Data Science and Programming** from IITM (2021-2024) and have completed a **Diploma in Data Science and Programming**.  
+# Hi there, I'm [SatyaSanthi] 👋  
+Graduate from Electronics and Communication Engineering
+I'm passionate about mathematics, statistics, and computer science, with a strong focus on **data science** and **machine learning**.  I am currently pursuing a **Degree in Data Science and Programming** from **IITM**  ![IITM Logo](https://upload.wikimedia.org/wikipedia/en/4/41/IIT_Madras_Logo.png) and have completed a **Diploma in Data Science and Diploma in Programming**.(2021-2024)
+  
 
 I also hold NPTEL certifications in:  
 - **Big Data**  
