@@ -24,7 +24,7 @@ I also hold NPTEL certifications in:
 ![Flask](https://img.shields.io/badge/-Flask-lightblue) ![Vue.js](https://img.shields.io/badge/-Vue.js-green)  
 
 ### Data Science:  
-![Pandas](https://img.shields.io/badge/-Pandas-blue) ![NumPy](https://img.shields.io/badge/-NumPy-lightblue) ![Machine Learning Techniques](https://img.shields.io/badge/-Machine Learning Techniques-orange) ![Seaborn](https://img.shields.io/badge/-Seaborn-blue)   
+![Pandas](https://img.shields.io/badge/-Pandas-blue) ![NumPy](https://img.shields.io/badge/-NumPy-lightblue)  ![Seaborn](https://img.shields.io/badge/-Seaborn-blue)   
 
 ### Tools & Others:  
 ![Redis](https://img.shields.io/badge/-Redis-red) ![Celery](https://img.shields.io/badge/-Celery-green) ![SMTP](https://img.shields.io/badge/-SMTP-lightgrey)  
