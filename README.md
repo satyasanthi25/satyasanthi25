@@ -1,6 +1,6 @@
 # Hi there, I'm [SatyaSanthi] 👋  
 Graduate from Electronics and Communication Engineering
-I'm passionate about mathematics, statistics, and computer science, with a strong focus on **data science** and **machine learning**.  I am currently pursuing a **Degree in Data Science and Programming** from **IITM**  and I have completed a **Diploma in Data Science and Diploma in Programming**.(2021-2024)
+I'm passionate about mathematics, statistics, and computer science, with a strong focus on **data science** and **machine learning**.  I am currently pursuing a **Degree in Data Science** from **IITM**  and I have completed a **Diploma in Data Science and Diploma in Programming**.(2021-2024)
   
 
 I also hold NPTEL certifications in:  
