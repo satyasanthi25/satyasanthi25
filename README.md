@@ -51,7 +51,7 @@ A multi-user household services platform connecting customers with service profe
 
 [Repository Link](https://github.com/your-repo-link)  
 
-### 3. **MLP (Machine Learning Practice): Taxi Fare Prediction**  
+### 3. **MLP (Machine Learning Practice)Kaggle Competation: Taxi Fare Prediction**  
 This project was completed as part of a Kaggle competition (**Taxi Fare Guru**). It focuses on building predictive models for taxi fare estimation using advanced machine learning techniques.  
 - **Tools Used:** Kaggle Notebook, Google Colab  
 - **Notebook Link:** [Google Colab Notebook](https://colab.research.google.com/drive/1V6-55pc3UbbmyRjRCXnradTwSz-bNzrW#scrollTo=3C-LlJaR2F-X&uniqifier=1)  
